@@ -17,7 +17,7 @@ export default function App() {
         <Text style={styles.justtext}>Square 3</Text>
       </View>
 
-      
+      <View><Text style={styles.justtext}>thay doi appp thu </Text> </View>
     </View>
   );
 }
