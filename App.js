@@ -16,7 +16,7 @@ export default function App() {
       <View style={styles.box3}>
         <Text style={styles.justtext}>Square 3</Text>
       </View>
-
+      <Text>ádálkd</Text>
       
     </View>
   );
